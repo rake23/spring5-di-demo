@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>guru.springframework</groupId>
-	<artifactId>di-demo</artifactId>
+	<artifactId>di-demo-assignment</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>di-demo</name>
+	<name>di-demo-assignment</name>
 	<description>Demo of DI options in Spring</description>
 
 	<parent>
